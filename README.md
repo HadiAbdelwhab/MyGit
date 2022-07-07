@@ -1,2 +1,5 @@
 # MyGit
 For Learning
+
+
+##Notes
